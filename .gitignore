@@ -1,0 +1,19 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Data & model artifacts
+/data/raw/
+/data/processed/
+/models/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
